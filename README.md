@@ -20,7 +20,8 @@ Please respect the terms of use.
 All Commands work on this project keep in mine it will be upgrade with more commands in the future.
 This are the commands that you will be able to use it support (Microsoft & Apple) Computers and Laptop.
 
-1 Windows Control Panel
+ Windows Control Panel
+ ----------------------
   -  Opens the Control Panel.
   -  Opens Task Manager.
   -  Opens File Explorer.
@@ -59,8 +60,9 @@ This are the commands that you will be able to use it support (Microsoft & Apple
   -  Displays the current system date and time.
   -  The system is shutdown
   -  The system is restarting
-
-2 IOS Control Pannel
+ 
+ IOS Control Pannel
+ -------------------
   -
   
 
