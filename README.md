@@ -63,6 +63,33 @@ This are the commands that you will be able to use it support (Microsoft & Apple
  
  IOS Control Pannel
  -------------------
-  -
+  - Opens System Preferences.
+  - Opens Activity Monitor.
+  - Opens Finder.
+  - Opens Calculator.
+  - Opens Terminal.
+  - Opens System Preferences.
+  - Opens Disk Utility.
+  - Opens Activity Monitor.
+  - Opens Network Preferences.
+  - Opens Sound Preferences.
+  - Opens Displays Preferences.
+  - Opens User Accounts Preferences.
+  - Opens Battery Preferences.
+  - Opens Software Update Preferences.
+  - Opens Security & Privacy settings.
+  - Opens Sharing Preferences.
+  - Opens Printer & Scanners settings.
+  - Opens Bluetooth Preferences.
+  - Opens Energy Saver Preferences.
+  - Opens Mission Control Preferences.
+  - Opens Keyboard Preferences.
+  - Opens Mouse Preferences.
+  - Opens Trackpad Preferences.
+  - Opens Screenshots Settings.
+  - Opens iCloud Preferences.
+  - Opens Notes.
+  - Opens Reminders.
+  - Opens Photos.
   
 
