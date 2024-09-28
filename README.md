@@ -20,6 +20,8 @@ Please respect the terms of use.
 All Commands work on this project keep in mine it will be upgrade with more commands in the future.
 This are the commands that you will be able to use it support (Microsoft & Apple) Computers and Laptop.
 
+If your having problem to know what commands to put write (help) will give you guides for the commands copy the green text.
+
  Windows Control Panel
  ----------------------
   -  Opens the Control Panel.
@@ -170,6 +172,23 @@ Terminal Pannel
   - List all network services.
   - Reset the network interface.
   - Scan for available Wi-Fi networks.
+
+DD Virus Scanner
+-----------------
+  - Direct your file to scanner.
+
+DD Media
+---------------
+  - Our Website
+  - Our Facebook Page
+  - Our Linkin Page
+  - Our Github Page
+
+Report
+---------------
+  - Write the report
+  - Selecte the option for the report.
+
 
 
 
