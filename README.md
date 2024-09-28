@@ -125,6 +125,7 @@ This are the commands that you will be able to use it support (Microsoft & Apple
   - Opens VoiceOver Utility.
   - Opens Digital Color Meter.
   - Opens Screenshot Utility.
+
 Command Prompt Pannel
 ---------------------
   - Opens Command Prompt.
@@ -148,6 +149,7 @@ Command Prompt Pannel
   - Opens Command Prompt Type.
   - Displays the Windows version information.
   - Opens Command Prompt Powercfg.
+
 Terminal Pannel
 ---------------
   
