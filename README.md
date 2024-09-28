@@ -152,5 +152,24 @@ Command Prompt Pannel
 
 Terminal Pannel
 ---------------
-  
+  - Opens Terminal Command.
+  - Show Local IP Address.
+  - Show Public IP Address.
+  - Show Network Information.
+  - Show DNS Servers.
+  - Show Default Gateway.
+  - Show Route Table.
+  - Show Active Connections.
+  - Perform a Ping Test.
+  - Perform a Traceroute.
+  - Check Firewall Status.
+  - List all Network Interfaces.
+  - Show Current Network Information.
+  - Show MAC Address.
+  - Test connection.
+  - List all network services.
+  - Reset the network interface.
+  - Scan for available Wi-Fi networks.
+
+
 
