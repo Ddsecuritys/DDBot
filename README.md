@@ -1,4 +1,4 @@
-# Project Title
+# DDBot Project
 
 ## Important Notice
 
@@ -91,5 +91,64 @@ This are the commands that you will be able to use it support (Microsoft & Apple
   - Opens Notes.
   - Opens Reminders.
   - Opens Photos.
+  - Opens Music.
+  - Opens Messages.
+  - Opens Calendar.
+  - Opens Voice Memos.
+  - Opens FaceTime.
+  - Opens QuickTime Player.
+  - Opens Time Machine.
+  - Opens System Information.
+  - Opens Keychain Access.
+  - Opens Accessibility Settings.
+  - Opens Color Calibration.
+  - Opens Safari.
+  - Opens Mail.
+  - Opens Pages.
+  - Opens Numbers.
+  - Opens Keynote.
+  - Opens Adobe Reader.
+  - Opens Visual Studio Code.
+  - Opens Slack.
+  - Opens Spotify.
+  - Opens Docker.
+  - Opens Font Book.
+  - Opens Console (System Log).
+  - Opens Network Utility.
+  - Opens Character Viewer.
+  - Opens Apple Support in default browser.
+  - Opens App Store.
+  - Opens Contacts.
+  - Opens Chess.
+  - Opens Preview.
+  - Opens Dictionary.
+  - Opens VoiceOver Utility.
+  - Opens Digital Color Meter.
+  - Opens Screenshot Utility.
+Command Prompt Pannel
+---------------------
+  - Opens Command Prompt.
+  - Opens Command Prompt Network.
+  - Opens Command Prompt Ping Localhost.
+  - Opens Command Prompt Tracert Localhost.
+  - Opens Command Prompt Netsh Wlan Profiles.
+  - Opens Command Prompt Netsh Wlan SSID.
+  - Opens Command Prompt System Info.
+  - Opens Command Prompt Folder.
+  - Displays or changes file attributes.
+  - Compares two files and displays the differences.
+  - Searches for a text string in a file or files.
+  - Displays output one screen at a time.
+  - Displays a graphical representation of the folder structure.
+  - Displays the ARP table.
+  - Displays or connects to shared resources.
+  - Displays or modifies boot configuration data.
+  - Scans and repairs system files.
+  - Opens Command Prompt Setx.
+  - Opens Command Prompt Type.
+  - Displays the Windows version information.
+  - Opens Command Prompt Powercfg.
+Terminal Pannel
+---------------
   
 
